@@ -1,0 +1,13 @@
+CrimeHeadID,CrimeGroupName,Active
+1,Crimes Against Body,1
+2,Crimes Against Property,1
+3,Crimes Against Women,1
+4,Crimes Against Children,1
+5,Crimes Against Senior Citizens,1
+6,Crimes Against Public Order,1
+7,Crimes Against State,1
+8,Economic Offences,1
+9,Cyber Crimes,1
+10,Narcotic Drugs & Psychotropic Substances,1
+11,Traffic & Motor Vehicle Offences,1
+12,Local & Special Laws,1

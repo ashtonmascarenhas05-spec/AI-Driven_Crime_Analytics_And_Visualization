@@ -1,0 +1,64 @@
+CrimeSubHeadID,CrimeHeadID,CrimeHeadName,SeqID
+1,1,Murder,1
+2,1,Attempt to Murder,2
+3,1,Culpable Homicide Not Amounting to Murder,3
+4,1,Grievous Hurt,4
+5,1,Simple Hurt,5
+6,1,Kidnapping & Abduction,6
+7,1,Criminal Assault,7
+8,2,Theft,1
+9,2,House-breaking / Burglary,2
+10,2,Robbery,3
+11,2,Dacoity,4
+12,2,Criminal Breach of Trust,5
+13,2,Cheating (Property),6
+14,2,Mischief / Criminal Damage,7
+15,3,Rape,1
+16,3,Outraging Modesty of Woman,2
+17,3,Dowry Death,3
+18,3,Cruelty by Husband/Relatives,4
+19,3,Sexual Harassment,5
+20,3,Domestic Violence,6
+21,3,Stalking,7
+22,4,POCSO Offences,1
+23,4,Child Trafficking,2
+24,4,Child Labour Violation,3
+25,4,Missing Child,4
+26,4,Juvenile Abuse,5
+27,5,Elder Abuse,1
+28,5,Property Fraud on Senior Citizen,2
+29,5,Neglect / Abandonment,3
+30,6,Rioting,1
+31,6,Unlawful Assembly,2
+32,6,Affray,3
+33,6,Public Nuisance,4
+34,7,Sedition,1
+35,7,Terrorism (UAPA),2
+36,7,Waging War Against State,3
+37,7,Counterfeiting Currency,4
+38,8,Financial Cheating & Fraud,1
+39,8,Criminal Breach of Trust (Financial),2
+40,8,Forgery,3
+41,8,Money Laundering,4
+42,8,Chit Fund Fraud,5
+43,9,Online Financial Fraud,1
+44,9,Cyberstalking,2
+45,9,Unauthorized System Access / Hacking,3
+46,9,Social Media Impersonation,4
+47,9,OTP / UPI Fraud,5
+48,9,Cyberbullying,6
+49,10,Possession of Narcotic Substance,1
+50,10,Drug Trafficking,2
+51,10,Cultivation of Narcotic Plants,3
+52,10,Drug Peddling Near Educational Institution,4
+53,11,Rash & Negligent Driving,1
+54,11,Drunken Driving,2
+55,11,Hit and Run,3
+56,11,Fatal Motor Vehicle Accident,4
+57,11,Non-Fatal Motor Vehicle Accident,5
+58,11,Traffic Signal Violation,6
+59,12,Karnataka Excise Act Violation,1
+60,12,Gambling Act Violation,2
+61,12,Arms Act Violation,3
+62,12,Karnataka Police Act Violation,4
+63,12,Anti-Ragging Violation,5

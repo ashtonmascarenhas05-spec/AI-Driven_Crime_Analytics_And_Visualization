@@ -1,0 +1,11 @@
+CaseCategoryID,LookupValue
+0,General Diary (GD)
+1,FIR (First Information Report)
+2,NCR (Non-Cognizable Report)
+3,UDR (Unnatural Death Report)
+4,PAR (Preventive Action Report)
+5,MVC (Motor Vehicle Collision Report)
+6,CSR (Community Service Register)
+7,FSL Referral
+8,Zero FIR
+9,MPR (Missing Person Report)
