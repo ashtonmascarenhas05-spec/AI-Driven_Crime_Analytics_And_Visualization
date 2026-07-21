@@ -1,0 +1,5 @@
+*.pkl
+dataset/raw/
+dataset/synthetic/
+*.env
+*.db

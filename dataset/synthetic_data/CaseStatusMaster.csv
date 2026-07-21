@@ -1,0 +1,11 @@
+CaseStatusID,CaseStatusName
+1,Under Investigation
+2,Charge Sheeted
+3,Final Report - Undetected
+4,Final Report - False Case
+5,Pending Trial
+6,Convicted
+7,Acquitted
+8,Closed
+9,Referred - Mistake of Fact
+10,Compounded / Withdrawn

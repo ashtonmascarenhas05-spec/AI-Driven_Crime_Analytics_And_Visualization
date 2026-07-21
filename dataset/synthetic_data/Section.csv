@@ -1,0 +1,77 @@
+ActCode,SectionCode,SectionDescription,Active
+IPC,IPC-302,Punishment for Murder,1
+IPC,IPC-307,Attempt to Murder,1
+IPC,IPC-304,Culpable Homicide Not Amounting to Murder,1
+IPC,IPC-323,Voluntarily Causing Hurt,1
+IPC,IPC-325,Voluntarily Causing Grievous Hurt,1
+IPC,IPC-354,Assault on Woman with Intent to Outrage Modesty,1
+IPC,IPC-363,Kidnapping,1
+IPC,IPC-366,Kidnapping/Abducting Woman to Compel Marriage,1
+IPC,IPC-376,Rape,1
+IPC,IPC-379,Theft,1
+IPC,IPC-380,Theft in Dwelling House,1
+IPC,IPC-392,Robbery,1
+IPC,IPC-395,Dacoity,1
+IPC,IPC-406,Criminal Breach of Trust,1
+IPC,IPC-420,Cheating and Dishonestly Inducing Delivery of Property,1
+IPC,IPC-447,Criminal Trespass,1
+IPC,IPC-498A,Cruelty by Husband or Relatives of Husband,1
+IPC,IPC-504,Intentional Insult to Provoke Breach of Peace,1
+IPC,IPC-506,Criminal Intimidation,1
+BNS,BNS-103,Punishment for Murder,1
+BNS,BNS-109,Attempt to Murder,1
+BNS,BNS-105,Culpable Homicide Not Amounting to Murder,1
+BNS,BNS-115,Voluntarily Causing Hurt,1
+BNS,BNS-117,Voluntarily Causing Grievous Hurt,1
+BNS,BNS-74,Assault on Woman with Intent to Outrage Modesty,1
+BNS,BNS-137,Kidnapping,1
+BNS,BNS-140,Kidnapping/Abducting Woman to Compel Marriage,1
+BNS,BNS-64,Rape,1
+BNS,BNS-303,Theft,1
+BNS,BNS-305,Theft in Dwelling House,1
+BNS,BNS-309,Robbery,1
+BNS,BNS-310,Dacoity,1
+BNS,BNS-316,Criminal Breach of Trust,1
+BNS,BNS-318,Cheating and Dishonestly Inducing Delivery of Property,1
+BNS,BNS-329,Criminal Trespass,1
+BNS,BNS-85,Cruelty by Husband or Relatives of Husband,1
+BNS,BNS-352,Intentional Insult to Provoke Breach of Peace,1
+BNS,BNS-351,Criminal Intimidation,1
+NDPS,NDPS-8,Prohibition of Certain Operations Involving Narcotic Drugs,1
+NDPS,NDPS-20,Punishment for Offences Related to Cannabis,1
+NDPS,NDPS-21,Punishment for Offences Related to Manufactured Drugs,1
+NDPS,NDPS-22,Punishment for Offences Related to Psychotropic Substances,1
+NDPS,NDPS-27,Punishment for Consumption of Narcotic/Psychotropic Substance,1
+NDPS,NDPS-29,Abetment and Criminal Conspiracy,1
+ARMS,ARMS-25,Punishment for Possession Without Licence,1
+ARMS,ARMS-27,Punishment for Using Arms/Ammunition,1
+ARMS,ARMS-30,Punishment for Contravention of Licence Conditions,1
+POCSO,POCSO-4,Punishment for Penetrative Sexual Assault,1
+POCSO,POCSO-6,Punishment for Aggravated Penetrative Sexual Assault,1
+POCSO,POCSO-8,Punishment for Sexual Assault,1
+POCSO,POCSO-10,Punishment for Aggravated Sexual Assault,1
+POCSO,POCSO-12,Punishment for Sexual Harassment,1
+PCA,PCA-7,Public Servant Taking Gratification,1
+PCA,PCA-13,Criminal Misconduct by Public Servant,1
+ITACT,ITACT-66,Computer Related Offences,1
+ITACT,ITACT-66C,Identity Theft,1
+ITACT,ITACT-66D,Cheating by Personation Using Computer Resource,1
+ITACT,ITACT-67,Publishing Obscene Material in Electronic Form,1
+MVACT,MVACT-184,Driving Dangerously,1
+MVACT,MVACT-185,Driving Under Influence of Alcohol/Drugs,1
+MVACT,MVACT-177,General Provision for Punishment of Offences,1
+MVACT,MVACT-134,Duty of Driver in Case of Accident (Hit and Run),1
+KPACT,KPACT-78,Gambling in Public Streets,1
+KPACT,KPACT-110,Punishment for Public Nuisance,1
+KEXACT,KEXACT-32,Illegal Possession of Liquor,1
+KEXACT,KEXACT-34,Illegal Manufacture/Sale of Liquor,1
+DOWRY,DOWRY-3,Penalty for Giving or Taking Dowry,1
+DOWRY,DOWRY-4,Penalty for Demanding Dowry,1
+SCST,SCST-3(1),Punishment for Offences of Atrocities,1
+JJACT,JJACT-75,Cruelty to Child,1
+JJACT,JJACT-82,Kidnapping or Abduction of Child,1
+UAPA,UAPA-13,Punishment for Unlawful Activities,1
+UAPA,UAPA-16,Punishment for Terrorist Act,1
+UAPA,UAPA-18,Conspiracy,1
+PMLA,PMLA-3,Offence of Money Laundering,1
+PMLA,PMLA-4,Punishment for Money Laundering,1

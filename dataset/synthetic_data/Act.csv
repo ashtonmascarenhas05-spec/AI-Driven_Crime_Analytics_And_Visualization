@@ -1,0 +1,16 @@
+ActCode,ActDescription,ShortName,Active
+IPC,"Indian Penal Code, 1860",IPC,0
+BNS,"Bharatiya Nyaya Sanhita, 2023",BNS,1
+NDPS,"Narcotic Drugs and Psychotropic Substances Act, 1985",NDPS Act,1
+ARMS,"The Arms Act, 1959",Arms Act,1
+POCSO,"Protection of Children from Sexual Offences Act, 2012",POCSO Act,1
+PCA,"Prevention of Corruption Act, 1988",PC Act,1
+ITACT,"Information Technology Act, 2000",IT Act,1
+MVACT,"Motor Vehicles Act, 1988",MV Act,1
+KPACT,"Karnataka Police Act, 1963",KP Act,1
+KEXACT,"Karnataka Excise Act, 1965",Excise Act,1
+DOWRY,"Dowry Prohibition Act, 1961",Dowry Act,1
+SCST,"Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",SC/ST Act,1
+JJACT,"Juvenile Justice (Care and Protection of Children) Act, 2015",JJ Act,1
+UAPA,"Unlawful Activities (Prevention) Act, 1967",UAPA,1
+PMLA,"Prevention of Money Laundering Act, 2002",PMLA,1

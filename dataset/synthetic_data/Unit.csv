@@ -1,0 +1,202 @@
+UnitID,UnitName,TypeID,ParentUnit,NationalityID,StateID,DistrictID,Active
+1,Director General of Police - State Headquarters,1,,1,16,5,1
+2,Bengaluru Range IG Office,2,1,1,16,5,1
+3,Mysuru Range IG Office,2,1,1,16,22,1
+4,Belagavi Range IG Office,2,1,1,16,3,1
+5,Kalaburagi Range IG Office,2,1,1,16,17,1
+6,Bengaluru City Police Commissionerate,3,2,1,16,5,1
+7,Mysuru City Police Commissionerate,3,3,1,16,22,1
+8,Mangaluru City Police Commissionerate,3,3,1,16,11,1
+9,Bengaluru Rural District SP Office,4,2,1,16,4,1
+10,Kolar District SP Office,4,2,1,16,19,1
+11,Chikballapur District SP Office,4,2,1,16,8,1
+12,Ramanagara District SP Office,4,2,1,16,24,1
+13,Tumakuru District SP Office,4,2,1,16,26,1
+14,Chitradurga District SP Office,4,2,1,16,10,1
+15,Davanagere District SP Office,4,2,1,16,12,1
+16,Chamarajanagar District SP Office,4,3,1,16,7,1
+17,Hassan District SP Office,4,3,1,16,15,1
+18,Kodagu District SP Office,4,3,1,16,18,1
+19,Mandya District SP Office,4,3,1,16,21,1
+20,Udupi District SP Office,4,3,1,16,27,1
+21,Chikkamagaluru District SP Office,4,3,1,16,9,1
+22,Shivamogga District SP Office,4,3,1,16,25,1
+23,Bagalkot District SP Office,4,4,1,16,1,1
+24,Vijayapura District SP Office,4,4,1,16,29,1
+25,Dharwad District SP Office,4,4,1,16,13,1
+26,Gadag District SP Office,4,4,1,16,14,1
+27,Haveri District SP Office,4,4,1,16,16,1
+28,Uttara Kannada District SP Office,4,4,1,16,28,1
+29,Vijayanagara District SP Office,4,4,1,16,31,1
+30,Ballari District SP Office,4,4,1,16,2,1
+31,Belagavi District SP Office,4,4,1,16,3,1
+32,Bidar District SP Office,4,5,1,16,6,1
+33,Raichur District SP Office,4,5,1,16,23,1
+34,Koppal District SP Office,4,5,1,16,20,1
+35,Yadgir District SP Office,4,5,1,16,30,1
+36,Kalaburagi District SP Office,4,5,1,16,17,1
+37,Bengaluru City East Division,5,6,1,16,5,1
+38,Bengaluru City West Division,5,6,1,16,5,1
+39,Bengaluru City North Division,5,6,1,16,5,1
+40,Bengaluru City South Division,5,6,1,16,5,1
+41,Mysuru City East Sub-Division,5,7,1,16,22,1
+42,Mysuru City West Sub-Division,5,7,1,16,22,1
+43,Mangaluru City East Sub-Division,5,8,1,16,11,1
+44,Mangaluru City West Sub-Division,5,8,1,16,11,1
+45,Bengaluru Rural Circle Office,6,9,1,16,4,1
+46,Kolar Circle Office,6,10,1,16,19,1
+47,Chikballapur Circle Office,6,11,1,16,8,1
+48,Ramanagara Circle Office,6,12,1,16,24,1
+49,Tumakuru Circle Office,6,13,1,16,26,1
+50,Chitradurga Circle Office,6,14,1,16,10,1
+51,Davanagere Circle Office,6,15,1,16,12,1
+52,Chamarajanagar Circle Office,6,16,1,16,7,1
+53,Hassan Circle Office,6,17,1,16,15,1
+54,Kodagu Circle Office,6,18,1,16,18,1
+55,Mandya Circle Office,6,19,1,16,21,1
+56,Udupi Circle Office,6,20,1,16,27,1
+57,Chikkamagaluru Circle Office,6,21,1,16,9,1
+58,Shivamogga Circle Office,6,22,1,16,25,1
+59,Bagalkot Circle Office,6,23,1,16,1,1
+60,Vijayapura Circle Office,6,24,1,16,29,1
+61,Dharwad Circle Office,6,25,1,16,13,1
+62,Gadag Circle Office,6,26,1,16,14,1
+63,Haveri Circle Office,6,27,1,16,16,1
+64,Uttara Kannada Circle Office,6,28,1,16,28,1
+65,Vijayanagara Circle Office,6,29,1,16,31,1
+66,Ballari Circle Office,6,30,1,16,2,1
+67,Belagavi Circle Office,6,31,1,16,3,1
+68,Bidar Circle Office,6,32,1,16,6,1
+69,Raichur Circle Office,6,33,1,16,23,1
+70,Koppal Circle Office,6,34,1,16,20,1
+71,Yadgir Circle Office,6,35,1,16,30,1
+72,Kalaburagi Circle Office,6,36,1,16,17,1
+73,Indiranagar Police Station,8,37,1,16,5,1
+74,Koramangala Police Station,8,38,1,16,5,1
+75,Jayanagar Police Station,8,39,1,16,5,1
+76,Whitefield Police Station,8,40,1,16,5,1
+77,Yeshwanthpur Police Station,8,37,1,16,5,1
+78,Rajajinagar Police Station,8,38,1,16,5,1
+79,Banashankari Police Station,8,39,1,16,5,1
+80,Malleshwaram Police Station,8,40,1,16,5,1
+81,Electronic City Police Station,8,37,1,16,5,1
+82,HSR Layout Police Station,8,38,1,16,5,1
+83,Bengaluru City Traffic Police Station,12,6,1,16,5,1
+84,Bengaluru City Women Police Station,13,6,1,16,5,1
+85,Bengaluru City CEN Crime Police Station,14,6,1,16,5,1
+86,Devaraja Police Station,8,41,1,16,22,1
+87,Vijayanagar Police Station,8,41,1,16,22,1
+88,Jayalakshmipuram Police Station,8,41,1,16,22,1
+89,Krishnaraja Police Station,8,41,1,16,22,1
+90,Nazarbad Police Station,8,41,1,16,22,1
+91,Mysuru Traffic Police Station,12,7,1,16,22,1
+92,Mysuru Women Police Station,13,7,1,16,22,1
+93,Mysuru CEN Crime Police Station,14,7,1,16,22,1
+94,Mangaluru North Police Station,8,43,1,16,11,1
+95,Mangaluru South Police Station,8,43,1,16,11,1
+96,Mangaluru East Police Station,8,43,1,16,11,1
+97,Mangaluru West Police Station,8,43,1,16,11,1
+98,Bantwal Rural Police Station,8,43,1,16,11,1
+99,Dakshina Kannada Traffic Police Station,12,8,1,16,11,1
+100,Dakshina Kannada Women Police Station,13,8,1,16,11,1
+101,Dakshina Kannada CEN Crime Police Station,14,8,1,16,11,1
+102,Belagavi Camp Police Station,8,67,1,16,3,1
+103,Belagavi Market Police Station,8,67,1,16,3,1
+104,Shahapur Police Station,8,67,1,16,3,1
+105,Tilakwadi Police Station,8,67,1,16,3,1
+106,Khanapur Police Station,8,67,1,16,3,1
+107,Belagavi Traffic Police Station,12,31,1,16,3,1
+108,Belagavi Women Police Station,13,31,1,16,3,1
+109,Belagavi CEN Crime Police Station,14,31,1,16,3,1
+110,Kalaburagi Market Police Station,8,72,1,16,17,1
+111,Kalaburagi Rural Police Station,8,72,1,16,17,1
+112,Brahmapur Police Station,8,72,1,16,17,1
+113,Chittapur Police Station,8,72,1,16,17,1
+114,Jewargi Police Station,8,72,1,16,17,1
+115,Kalaburagi Traffic Police Station,12,36,1,16,17,1
+116,Kalaburagi Women Police Station,13,36,1,16,17,1
+117,Kalaburagi CEN Crime Police Station,14,36,1,16,17,1
+118,Hubballi Old City Police Station,8,61,1,16,13,1
+119,Hubballi New City Police Station,8,61,1,16,13,1
+120,Dharwad Rural Police Station,8,61,1,16,13,1
+121,Vidyanagar Police Station,8,61,1,16,13,1
+122,Navanagar Police Station,8,61,1,16,13,1
+123,Dharwad Traffic Police Station,12,25,1,16,13,1
+124,Dharwad Women Police Station,13,25,1,16,13,1
+125,Dharwad CEN Crime Police Station,14,25,1,16,13,1
+126,Tumakuru City Police Station,8,49,1,16,26,1
+127,Tumakuru Rural Police Station,8,49,1,16,26,1
+128,Sira Police Station,8,49,1,16,26,1
+129,Tiptur Police Station,8,49,1,16,26,1
+130,Madhugiri Police Station,8,49,1,16,26,1
+131,Tumakuru Traffic Police Station,12,13,1,16,26,1
+132,Tumakuru Women Police Station,13,13,1,16,26,1
+133,Tumakuru CEN Crime Police Station,14,13,1,16,26,1
+134,Ballari Town Police Station,10,66,1,16,2,1
+135,Ballari Rural Police Station,9,66,1,16,2,1
+136,Sandur Police Station,11,66,1,16,2,1
+137,Ballari Women Police Station,13,30,1,16,2,1
+138,Davanagere Town Police Station,10,51,1,16,12,1
+139,Davanagere Rural Police Station,9,51,1,16,12,1
+140,Harihar Police Station,11,51,1,16,12,1
+141,Davanagere Women Police Station,13,15,1,16,12,1
+142,Shivamogga Town Police Station,10,58,1,16,25,1
+143,Shivamogga Rural Police Station,9,58,1,16,25,1
+144,Bhadravati Police Station,11,58,1,16,25,1
+145,Shivamogga Women Police Station,13,22,1,16,25,1
+146,Hassan Town Police Station,10,53,1,16,15,1
+147,Hassan Rural Police Station,9,53,1,16,15,1
+148,Arsikere Police Station,11,53,1,16,15,1
+149,Hassan Women Police Station,13,17,1,16,15,1
+150,Mandya Town Police Station,10,55,1,16,21,1
+151,Mandya Rural Police Station,9,55,1,16,21,1
+152,Maddur Police Station,11,55,1,16,21,1
+153,Mandya Women Police Station,13,19,1,16,21,1
+154,Vijayapura Town Police Station,10,60,1,16,29,1
+155,Vijayapura Rural Police Station,9,60,1,16,29,1
+156,Basavana Bagewadi Police Station,11,60,1,16,29,1
+157,Vijayapura Women Police Station,13,24,1,16,29,1
+158,Bidar Town Police Station,10,68,1,16,6,1
+159,Bidar Rural Police Station,9,68,1,16,6,1
+160,Humnabad Police Station,11,68,1,16,6,1
+161,Bidar Women Police Station,13,32,1,16,6,1
+162,Raichur Town Police Station,10,69,1,16,23,1
+163,Raichur Rural Police Station,9,69,1,16,23,1
+164,Manvi Police Station,11,69,1,16,23,1
+165,Raichur Women Police Station,13,33,1,16,23,1
+166,Chitradurga Town Police Station,10,50,1,16,10,1
+167,Chitradurga Rural Police Station,9,50,1,16,10,1
+168,Hiriyur Police Station,11,50,1,16,10,1
+169,Chitradurga Women Police Station,13,14,1,16,10,1
+170,Udupi Town Police Station,10,56,1,16,27,1
+171,Udupi Rural Police Station,9,56,1,16,27,1
+172,Kundapura Police Station,11,56,1,16,27,1
+173,Udupi Women Police Station,13,20,1,16,27,1
+174,Bagalkot Town Police Station,10,59,1,16,1,1
+175,Bagalkot Rural Police Station,9,59,1,16,1,1
+176,Devanahalli Police Station,10,45,1,16,4,1
+177,Hoskote Police Station,11,45,1,16,4,1
+178,Chamarajanagar Town Police Station,10,52,1,16,7,1
+179,Chamarajanagar Rural Police Station,9,52,1,16,7,1
+180,Chikballapur Town Police Station,10,47,1,16,8,1
+181,Chikballapur Rural Police Station,9,47,1,16,8,1
+182,Chikkamagaluru Town Police Station,10,57,1,16,9,1
+183,Chikkamagaluru Rural Police Station,9,57,1,16,9,1
+184,Gadag Town Police Station,10,62,1,16,14,1
+185,Gadag Rural Police Station,9,62,1,16,14,1
+186,Haveri Town Police Station,10,63,1,16,16,1
+187,Haveri Rural Police Station,9,63,1,16,16,1
+188,Madikeri Police Station,10,54,1,16,18,1
+189,Virajpet Police Station,11,54,1,16,18,1
+190,Kolar Town Police Station,10,46,1,16,19,1
+191,Kolar Rural Police Station,9,46,1,16,19,1
+192,Koppal Town Police Station,10,70,1,16,20,1
+193,Koppal Rural Police Station,9,70,1,16,20,1
+194,Ramanagara Police Station,10,48,1,16,24,1
+195,Channapatna Police Station,11,48,1,16,24,1
+196,Karwar Police Station,10,64,1,16,28,1
+197,Sirsi Police Station,11,64,1,16,28,1
+198,Yadgir Town Police Station,10,71,1,16,30,1
+199,Yadgir Rural Police Station,9,71,1,16,30,1
+200,Hosapete Police Station,10,65,1,16,31,1
+201,Kampli Police Station,11,65,1,16,31,1

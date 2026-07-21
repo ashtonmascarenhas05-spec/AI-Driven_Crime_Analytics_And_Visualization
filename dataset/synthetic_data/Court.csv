@@ -1,0 +1,123 @@
+CourtID,CourtName,DistrictID,StateID,Active
+1,"District & Sessions Court, Bagalkot",1,16,1
+2,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Bagalkot",1,16,1
+3,"Additional Civil Judge & JMFC Court, Bagalkot",1,16,1
+4,"District & Sessions Court, Ballari",2,16,1
+5,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Ballari",2,16,1
+6,"Additional Civil Judge & JMFC Court, Ballari",2,16,1
+7,"Fast Track Court, Ballari",2,16,1
+8,"Mahila (All-Women) Court, Ballari",2,16,1
+9,"POCSO Special Court, Ballari",2,16,1
+10,"District & Sessions Court, Belagavi",3,16,1
+11,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Belagavi",3,16,1
+12,"Additional Civil Judge & JMFC Court, Belagavi",3,16,1
+13,"Fast Track Court, Belagavi",3,16,1
+14,"Mahila (All-Women) Court, Belagavi",3,16,1
+15,"POCSO Special Court, Belagavi",3,16,1
+16,"District & Sessions Court, Bengaluru Rural",4,16,1
+17,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Bengaluru Rural",4,16,1
+18,"Additional Civil Judge & JMFC Court, Bengaluru Rural",4,16,1
+19,"District & Sessions Court, Bengaluru Urban",5,16,1
+20,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Bengaluru Urban",5,16,1
+21,"Additional Civil Judge & JMFC Court, Bengaluru Urban",5,16,1
+22,"Fast Track Court, Bengaluru Urban",5,16,1
+23,"Mahila (All-Women) Court, Bengaluru Urban",5,16,1
+24,"POCSO Special Court, Bengaluru Urban",5,16,1
+25,"District & Sessions Court, Bidar",6,16,1
+26,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Bidar",6,16,1
+27,"Additional Civil Judge & JMFC Court, Bidar",6,16,1
+28,"District & Sessions Court, Chamarajanagar",7,16,1
+29,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Chamarajanagar",7,16,1
+30,"Additional Civil Judge & JMFC Court, Chamarajanagar",7,16,1
+31,"District & Sessions Court, Chikballapur",8,16,1
+32,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Chikballapur",8,16,1
+33,"Additional Civil Judge & JMFC Court, Chikballapur",8,16,1
+34,"District & Sessions Court, Chikkamagaluru",9,16,1
+35,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Chikkamagaluru",9,16,1
+36,"Additional Civil Judge & JMFC Court, Chikkamagaluru",9,16,1
+37,"District & Sessions Court, Chitradurga",10,16,1
+38,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Chitradurga",10,16,1
+39,"Additional Civil Judge & JMFC Court, Chitradurga",10,16,1
+40,"District & Sessions Court, Dakshina Kannada",11,16,1
+41,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Dakshina Kannada",11,16,1
+42,"Additional Civil Judge & JMFC Court, Dakshina Kannada",11,16,1
+43,"Fast Track Court, Dakshina Kannada",11,16,1
+44,"Mahila (All-Women) Court, Dakshina Kannada",11,16,1
+45,"POCSO Special Court, Dakshina Kannada",11,16,1
+46,"District & Sessions Court, Davanagere",12,16,1
+47,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Davanagere",12,16,1
+48,"Additional Civil Judge & JMFC Court, Davanagere",12,16,1
+49,"District & Sessions Court, Dharwad",13,16,1
+50,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Dharwad",13,16,1
+51,"Additional Civil Judge & JMFC Court, Dharwad",13,16,1
+52,"Fast Track Court, Dharwad",13,16,1
+53,"Mahila (All-Women) Court, Dharwad",13,16,1
+54,"POCSO Special Court, Dharwad",13,16,1
+55,"District & Sessions Court, Gadag",14,16,1
+56,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Gadag",14,16,1
+57,"Additional Civil Judge & JMFC Court, Gadag",14,16,1
+58,"District & Sessions Court, Hassan",15,16,1
+59,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Hassan",15,16,1
+60,"Additional Civil Judge & JMFC Court, Hassan",15,16,1
+61,"District & Sessions Court, Haveri",16,16,1
+62,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Haveri",16,16,1
+63,"Additional Civil Judge & JMFC Court, Haveri",16,16,1
+64,"District & Sessions Court, Kalaburagi",17,16,1
+65,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Kalaburagi",17,16,1
+66,"Additional Civil Judge & JMFC Court, Kalaburagi",17,16,1
+67,"Fast Track Court, Kalaburagi",17,16,1
+68,"Mahila (All-Women) Court, Kalaburagi",17,16,1
+69,"POCSO Special Court, Kalaburagi",17,16,1
+70,"District & Sessions Court, Kodagu",18,16,1
+71,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Kodagu",18,16,1
+72,"Additional Civil Judge & JMFC Court, Kodagu",18,16,1
+73,"District & Sessions Court, Kolar",19,16,1
+74,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Kolar",19,16,1
+75,"Additional Civil Judge & JMFC Court, Kolar",19,16,1
+76,"District & Sessions Court, Koppal",20,16,1
+77,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Koppal",20,16,1
+78,"Additional Civil Judge & JMFC Court, Koppal",20,16,1
+79,"District & Sessions Court, Mandya",21,16,1
+80,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Mandya",21,16,1
+81,"Additional Civil Judge & JMFC Court, Mandya",21,16,1
+82,"District & Sessions Court, Mysuru",22,16,1
+83,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Mysuru",22,16,1
+84,"Additional Civil Judge & JMFC Court, Mysuru",22,16,1
+85,"Fast Track Court, Mysuru",22,16,1
+86,"Mahila (All-Women) Court, Mysuru",22,16,1
+87,"POCSO Special Court, Mysuru",22,16,1
+88,"District & Sessions Court, Raichur",23,16,1
+89,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Raichur",23,16,1
+90,"Additional Civil Judge & JMFC Court, Raichur",23,16,1
+91,"District & Sessions Court, Ramanagara",24,16,1
+92,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Ramanagara",24,16,1
+93,"Additional Civil Judge & JMFC Court, Ramanagara",24,16,1
+94,"District & Sessions Court, Shivamogga",25,16,1
+95,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Shivamogga",25,16,1
+96,"Additional Civil Judge & JMFC Court, Shivamogga",25,16,1
+97,"District & Sessions Court, Tumakuru",26,16,1
+98,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Tumakuru",26,16,1
+99,"Additional Civil Judge & JMFC Court, Tumakuru",26,16,1
+100,"Fast Track Court, Tumakuru",26,16,1
+101,"Mahila (All-Women) Court, Tumakuru",26,16,1
+102,"POCSO Special Court, Tumakuru",26,16,1
+103,"District & Sessions Court, Udupi",27,16,1
+104,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Udupi",27,16,1
+105,"Additional Civil Judge & JMFC Court, Udupi",27,16,1
+106,"District & Sessions Court, Uttara Kannada",28,16,1
+107,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Uttara Kannada",28,16,1
+108,"Additional Civil Judge & JMFC Court, Uttara Kannada",28,16,1
+109,"District & Sessions Court, Vijayapura",29,16,1
+110,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Vijayapura",29,16,1
+111,"Additional Civil Judge & JMFC Court, Vijayapura",29,16,1
+112,"District & Sessions Court, Yadgir",30,16,1
+113,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Yadgir",30,16,1
+114,"Additional Civil Judge & JMFC Court, Yadgir",30,16,1
+115,"District & Sessions Court, Vijayanagara",31,16,1
+116,"Principal Civil Judge (Sr. Dn.) & JMFC Court, Vijayanagara",31,16,1
+117,"Additional Civil Judge & JMFC Court, Vijayanagara",31,16,1
+118,"High Court of Karnataka, Bengaluru",5,16,1
+119,"City Civil Court, Bengaluru",5,16,1
+120,"CBI Special Court, Bengaluru",5,16,1
+121,"NDPS Special Court, Bengaluru",5,16,1
+122,"Special Court for Economic Offences, Bengaluru",5,16,1
