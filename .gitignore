@@ -4,3 +4,4 @@ dataset/synthetic/
 *.env
 *.db
 /ciccenv
+/.ipynb_checkpoints
