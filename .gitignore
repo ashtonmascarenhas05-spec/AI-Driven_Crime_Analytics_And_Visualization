@@ -5,3 +5,6 @@ dataset/synthetic/
 *.db
 /ciccenv
 /.ipynb_checkpoints
+/*.catalystrc
+/react-app
+/functions
