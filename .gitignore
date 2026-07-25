@@ -6,5 +6,4 @@ dataset/synthetic/
 /ciccenv
 /.ipynb_checkpoints
 /*.catalystrc
-/react-app
-/functions
+/node_modules
