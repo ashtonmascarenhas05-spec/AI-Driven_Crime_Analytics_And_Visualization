@@ -1,11 +1,10 @@
 {
-	"deployment": {
-		"name": "ai_driven_crime_analytics_and_visualization_function",
-		"stack": "python_3_13",
-		"type": "advancedio",
-		"env_variables": {}
-	},
-	"execution": {
-		"main": "main.py"
-	}
+  "functions": [
+    {
+      "name": "crime_inference_function",
+      "stack": "python39",
+      "type": "basic",
+      "execution": "main.handler"
+    }
+  ]
 }

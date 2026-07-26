@@ -1,29 +1,31 @@
-import logging
-from flask import Request, make_response, jsonify
 import zcatalyst_sdk
-'''
-Execute below command to install SDK in global for enabling code suggestions
--> python3 -m pip install zcatalyst-sdk
-'''
+import json
 
-def handler(request: Request):
-    app = zcatalyst_sdk.initialize()
-    logger = logging.getLogger()
-    if request.path == "/":
-        response = make_response(jsonify({
-            'status': 'success',
-            'message': 'Hello from main.py'
-        }), 200)
-        return response
-    elif request.path == "/cache":
-        default_segment = app.cache().segment()
-
-        insert_resp = default_segment.put('Name', 'DefaultName')
-        logger.info('Inserted cache : ' + str(insert_resp))
-        get_resp = default_segment.get('Name')
-
-        return jsonify(get_resp), 200
-    else:
-        response = make_response('Unknown path')
-        response.status_code = 400
-        return response
+def handler(context, basic_io):
+    try:
+        # Initialize Catalyst SDK
+        catalyst_app = zcatalyst_sdk.initialize()
+        
+        # Parse incoming request data from React frontend
+        # (e.g., target station ID or action type)
+        req_data = basic_io.get_argument()
+        
+        # --- PLACE YOUR MODEL INFERENCE LOGIC HERE ---
+        # Example output structure matching your dashboard wireframe needs:
+        response_data = {
+            "status": "success",
+            "message": "Models executed successfully from Stratus artifacts",
+            "predictions": {
+                "anomalies": "Station 14: Heinous Spike - High",
+                "forecast_trend": [180, 140, 90, 110, 150]
+            }
+        }
+        
+        # Send JSON response back to React
+        basic_io.set_response(json.dumps(response_data))
+        context.close()
+        
+    except Exception as e:
+        error_response = {"status": "error", "message": str(e)}
+        basic_io.set_response(json.dumps(error_response))
+        context.close()

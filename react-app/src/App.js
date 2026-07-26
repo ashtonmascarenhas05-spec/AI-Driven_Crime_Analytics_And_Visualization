@@ -1,25 +1,30 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import Sidebar from './components/Sidebar';
+import TopBar from './components/TopBar';
+import HotspotMap from './modules/HotspotMap';
+import AnomalyDetection from './modules/AnomalyDetection';
+import PatternTrends from './modules/PatternTrends';
+import PredictiveRisk from './modules/PredictiveRisk';
 
-function App() {
+const MODULES = {
+  hotspots: HotspotMap,
+  anomalies: AnomalyDetection,
+  patterns: PatternTrends,
+  risk: PredictiveRisk,
+};
+
+export default function App() {
+  const [active, setActive] = useState('hotspots');
+  const ActiveModule = MODULES[active];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app-shell">
+      <TopBar active={active} />
+      <Sidebar active={active} onSelect={setActive} />
+      <main className="app-main">
+        <ActiveModule />
+      </main>
     </div>
   );
 }
-
-export default App;

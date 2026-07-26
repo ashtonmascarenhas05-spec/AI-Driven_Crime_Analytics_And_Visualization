@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "directory": "functions",
+    "targets": ["ai_driven_crime_analytics_and_visualization_function"]
+  },
+  "client": {
+    "source": "react-app",
+    "build": "build",
+    "routing": "spa"
+  }
+}
