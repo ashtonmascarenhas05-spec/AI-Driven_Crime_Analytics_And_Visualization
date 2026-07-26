@@ -1,1 +1,7 @@
-zcatalyst-sdk==1.4.0
+zcatalyst-sdk
+pandas
+numpy
+scikit-learn
+xgboost
+prophet
+joblib
