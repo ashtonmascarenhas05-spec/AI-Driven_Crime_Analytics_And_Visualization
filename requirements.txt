@@ -10,3 +10,8 @@ statsmodels
 kneed
 joblib
 openpyxl
+xgboost
+prophet
+keras-tuner
+shap
+scipy
