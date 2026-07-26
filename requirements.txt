@@ -7,3 +7,6 @@ scikit-learn
 tensorflow
 lightgbm
 statsmodels
+kneed
+joblib
+openpyxl
